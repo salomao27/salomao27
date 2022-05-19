@@ -1,5 +1,5 @@
 <p align ="center"><img  height="200em" src="https://raw.githubusercontent.com/gist/salomao27/a987b36250f4be3999ae8a4dd3fbe05e/raw/3cad3ad1e645d89b39fd80fd8520b45c8d61bc7f/githubcard.svg"></img>
-<p align="center">Olá! Eu sou João Marcos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></p>
+<p align="center">Olá! Eu sou João Marcos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px"></p>
 
 ##
 - 🔭 Estudante de Sistemas de Informação na universidade Unilasalle
