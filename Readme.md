@@ -6,7 +6,7 @@
 
 <h2>Quem sou eu?</h2> 
 </div>
- <h4>Tenho 23 anos e sou estudante de Sistema de informação na instuição <a href="https://www.unilasalle.edu.br/rj">Unilasalle</a>, sou novato na programação com o foco na área do front end.</h4>
+ <h4>Tenho 25 anos e sou estudante de Sistema de informação na instuição <a href="https://www.unilasalle.edu.br/rj">Unilasalle</a>, sou novato na programação com o foco na área do front end.</h4>
  
 <div align ="center">
  
@@ -30,7 +30,7 @@
 </div>
 <h4>
  
-:floppy_disk: Projetos Front ent
+:floppy_disk: Projetos Front end
  
 :bulb: Projetos integrando o front end com o back end
  
