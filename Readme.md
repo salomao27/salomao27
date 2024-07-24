@@ -6,7 +6,7 @@
 
 <h2>Quem sou eu?</h2> 
 </div>
- <h4>Tenho 25 anos e sou estudante de Sistema de informação na instuição <a href="https://www.unilasalle.edu.br/rj">Unilasalle</a>, sou novato na programação com o foco na área do front end. Entre em meu portfolio e conheça mais sobnre mim <a href="https://portfolio-fnff58dxm-joao-marcos-projects-123ba57a.vercel.app/" target="blank">click aqui!</a>  </h4>
+ <h4>Tenho 25 anos e sou estudante de Sistema de informação na instuição <a href="https://www.unilasalle.edu.br/rj">Unilasalle</a>, sou novato na programação com o foco na área do front end. Entre em meu portfolio e conheça mais sobnre mim <a href="https://portfolio-pied-two-95.vercel.app/" target="blank">click aqui!</a>  </h4>
  Meu portfolio
 <div align ="center">
  
